@@ -4,7 +4,7 @@
 
 [![Join the chat at https://gitter.im/BroFOSS/BroFOSS](https://badges.gitter.im/BroFOSS/BroFOSS.svg)](https://gitter.im/BroFOSS/BroFOSS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Welcome to the **BroFOSS**- An initiative of Open Source Technologies using Computer Science, Electrical and Electronics concepts!
+Welcome to the **BroFOSS** - An Initiative of Open Source Technologies using Computer Science, Electrical and Electronics concepts!
 
 We are going to apply for the first time to Google Summer of Code 2018. Below are some list of ideas for students to apply for, but not limited to it. We are open to new ideas, feel free to discuss them in our [google group](https://groups.google.com/forum/#!forum/brofoss). 
 
