@@ -3,7 +3,16 @@
 .btn_social:hover { text-decoration: none; border-color: rgba(255, 255, 255, 0.3); }
 .btn_social + .btn_social { margin-left: 1rem; }
 
-.gitter-logo {
-	width: 24px;
+.gitter_logo_header {
+	width: 20px;
+  fill: rgba(255, 255, 255, 0.7);
+	display: block;
+	margin: auto;
+}
+
+.gitter_logo_footer {
+	width: 26px;
   fill: rgb(30, 107, 184);
+	display: block;
+	margin: auto;
 }
