@@ -10,9 +10,9 @@ Our primary focus is to work on free and open-source software (FOSS), open hardw
 We are applying for the first time to Google Summer of Code 2018. Below are some list of ideas for students to apply for, but not limited to it. We are open to new ideas, feel free to discuss them in our [google group](https://groups.google.com/forum/#!forum/brofoss). 
 
 ## Contents
-1. [New Idea Template](#new-idea-template)
-2. [Potential Mentors](#potential-mentors)
-3. [Potential Ideas](#potential-ideas)
+1. [New Idea Template](#1-new-idea-template)
+2. [Potential Mentors](#2-potential-mentors)
+3. [Potential Ideas](#3-potential-ideas)
    - [STM32-Driver (Microcontroller+Embedded-System+STM32)](#1-low-level-driver-for-stm32-series-microcontroller-using-embedded-c)
    - [STM32-GRBL (Microcontroller+Embedded-System+STM32+CNC)](#2-porting-the-grbl-cnc-library-of-arduino-to-stm32-series)
    - [Safe Navigator (IOT + Android)](#3-safe-navigator-iot--android)
@@ -20,7 +20,7 @@ We are applying for the first time to Google Summer of Code 2018. Below are some
    - [E-voting (Cryptography + Android)](#5-e-voting-cryptography--android)
    - [Moto Navigator (IOT + Android)](#6-moto-navigator-iot--android)
 
-4. [Proposal Template](#proposal-template)
+4. [Proposal Template](#4-proposal-template)
 
 ## 1. New Idea Template
 **Please use the below idea template to mention ideas:**
