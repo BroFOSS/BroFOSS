@@ -40,6 +40,7 @@ We are applying for the first time to Google Summer of Code 2018. Below are some
 ## 2. Potential Mentors
 * Anupam Das ([opticod](https://github.com/opticod)) (anupam.das.bwn@gmail.com)
 * Arnab Kumar Das ([arnabdasbwn](https://github.com/arnabdasbwn)) (arnab.das.bwn@gmail.com)
+* Aman Omkar ([aman3003](https://github.com/aman3003)) (iitp.aman@gmail.com) 
 
 We are also open to new potential mentors, who wants to join us.
 
