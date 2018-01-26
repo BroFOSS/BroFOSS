@@ -59,7 +59,7 @@ Microcontroller, Embedded System, STM32
 
 **Idea:**
 
-(Existing open source code repo: https://github.com/BroFOSS/grbl-coreXY-servo)
+(Existing open source code repo: [grbl-coreXY-servo](https://github.com/BroFOSS/grbl-coreXY-servo))
 
 The Arduino GRBL library works on AVR8 at 16Mhz with a slow motor driving speed and slow processing. Whereas Industrial Standard speed is very high and demands performance. It will be an awesome Open-Source project to port the GRBL to STM32F4 or STM32F7 Microcontroller with an Increased Performance due to Higher Clock and Better Bus Architecture and advance on-chip peripherals. We will also focus on adding all G-Code and M-Code Support.
 
@@ -105,7 +105,7 @@ Android Development, Cryptography.
 
 **Idea:**
 
-(Existing open source android app repo: https://github.com/BroFOSS/Moto-Navigator)
+(Existing open source android app repo: [Moto-Navigator](https://github.com/BroFOSS/Moto-Navigator))
 
 Create an Arduino/ Raspberry Pi/ BeagleBone based system, which will automate the lightning of any motor vehicle. Once the system is paired with the Android app, it will send different signals using Bluetooth/ wifi, to the system to turn various lightings on, depending on its location, road orientation, and heading direction.
 
