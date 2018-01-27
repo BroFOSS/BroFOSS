@@ -19,6 +19,7 @@ We are applying for the first time to Google Summer of Code 2018. Below are some
    - [E-voting (Cryptography + Web)](#4-e-voting-cryptography--web)
    - [E-voting (Cryptography + Android)](#5-e-voting-cryptography--android)
    - [Moto Navigator (IOT + Android)](#6-moto-navigator-iot--android)
+   - [Secure Smart Shopping System (IOT)](#7-secure-smart-shopping-system-iot)
 
 4. [Proposal Template](#4-proposal-template)
 
@@ -127,6 +128,18 @@ Create an Arduino/ Raspberry Pi/ BeagleBone based system, which will automate th
 **Technologies:**
 
 Arduino/ Raspberry Pi/ BeagleBone, Android Development.
+
+### 7. Secure Smart Shopping System (IOT)  
+
+**Idea:**
+
+In the era of the IoT, we focus on a Secure smart shopping system based on RFID and Cyber Security.
+Smart Shelves equipped with RFID Readers monitor all stock items, and items put into a smart shopping cart can be automatically read and the billing information will be generated on the smart cart. With this approach, we would both reduce queue time and human labours.
+
+**Technologies:**
+
+Light Weight Cryptography, IoT Gateway and IoT backend, RFID.
+
 
 
 ## 4. Proposal Template
