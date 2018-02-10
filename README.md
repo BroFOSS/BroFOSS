@@ -16,8 +16,8 @@ We are applying for the first time to Google Summer of Code 2018. Below are some
    - [STM32-Driver (Microcontroller+Embedded-System+STM32)](#1-low-level-driver-for-stm32-series-microcontroller-using-embedded-c)
    - [STM32-GRBL (Microcontroller+Embedded-System+STM32+CNC)](#2-porting-the-grbl-cnc-library-of-arduino-to-stm32-series)
    - [Safe Navigator (IOT + Android)](#3-safe-navigator-iot--android)
-   - [E-voting (Cryptography + Web)](#4-e-voting-cryptography--web)
-   - [E-voting (Cryptography + Android)](#5-e-voting-cryptography--android)
+   - [E-voting (Cryptography + Server + Web)](#4-e-voting-cryptography--server--web)
+   - [E-voting (Cryptography + Server + Android)](#5-e-voting-cryptography--server--android)
    - [Moto Navigator (IOT + Android)](#6-moto-navigator-iot--android)
    - [Secure Smart Shopping System (IOT)](#7-secure-smart-shopping-system-iot)
 
@@ -98,9 +98,9 @@ Video links to sample accidents to prevent: [Youtube link](https://www.youtube.c
 ### 4. E-voting (Cryptography + Server + Web)
 
 E-voting repos:
-- [E-voting-server](https://github.com/BroFOSS/E-voting-server): Server side code for e-voting-portals - web, and android
-- [E-voting-portal-web](https://github.com/BroFOSS/E-voting-portal-web): An internet based electronic voting system - web
-- [E-voting-portal-mobile](https://github.com/BroFOSS/E-voting-portal-mobile): An internet based electronic voting system - android
+- [E-voting-server](https://github.com/BroFOSS/E-voting-server): Server Side code for E-Voting-Portals - Web, and Android
+- [E-voting-portal-web](https://github.com/BroFOSS/E-voting-portal-web): E-Voting system - Web client side
+- [E-voting-portal-mobile](https://github.com/BroFOSS/E-voting-portal-mobile): E-Voting system - Android client side
 
 **Idea:**
 
@@ -113,9 +113,9 @@ Web Development, Cryptography.
 ### 5. E-voting (Cryptography + Server + Android)
 
 E-voting repos:
-- [E-voting-server](https://github.com/BroFOSS/E-voting-server): Server side code for e-voting-portals - web, and android
-- [E-voting-portal-web](https://github.com/BroFOSS/E-voting-portal-web): An internet based electronic voting system - web
-- [E-voting-portal-mobile](https://github.com/BroFOSS/E-voting-portal-mobile): An internet based electronic voting system - android
+- [E-voting-server](https://github.com/BroFOSS/E-voting-server): Server Side code for E-Voting-Portals - Web, and Android
+- [E-voting-portal-web](https://github.com/BroFOSS/E-voting-portal-web): E-Voting system - Web client side
+- [E-voting-portal-mobile](https://github.com/BroFOSS/E-voting-portal-mobile): E-Voting system - Android client side
 
 **Idea:**
 
