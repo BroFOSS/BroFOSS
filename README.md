@@ -97,6 +97,8 @@ Video links to sample accidents to prevent: [Youtube link](https://www.youtube.c
 
 ### 4. E-voting (Cryptography + Web)
 
+(Existing repo with some work in php(web): [E-voting-portal](https://github.com/BroFOSS/E-voting-portal))
+
 **Idea:**
 
 In many institutions, we still use the manual based voting system, where a user is required to go to a place and write his/ her vote in a paper, and then submit in a box. After few weeks, the results are declared using manual counting. Our idea to create an open source, secure, e-voting system, which can be used by such different institutions to automate their processes. 
@@ -106,6 +108,8 @@ In many institutions, we still use the manual based voting system, where a user 
 Web Development, Cryptography.
 
 ### 5. E-voting (Cryptography + Android)
+
+(Existing repo with some work in php(web): [E-voting-portal](https://github.com/BroFOSS/E-voting-portal))
 
 **Idea:**
 
