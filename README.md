@@ -95,9 +95,12 @@ Android Development, Google Map API / Mapbox API, Google Cloud Platform / Any ot
 
 Video links to sample accidents to prevent: [Youtube link](https://www.youtube.com/watch?v=CaZWmFWZ_L0)
 
-### 4. E-voting (Cryptography + Web)
+### 4. E-voting (Cryptography + Server + Web)
 
-(Existing repo with some work in php(web): [E-voting-portal](https://github.com/BroFOSS/E-voting-portal))
+E-voting repos:
+- [E-voting-server](https://github.com/BroFOSS/E-voting-server): Server side code for e-voting-portals - web, and android
+- [E-voting-portal-web](https://github.com/BroFOSS/E-voting-portal-web): An internet based electronic voting system - web
+- [E-voting-portal-mobile](https://github.com/BroFOSS/E-voting-portal-mobile): An internet based electronic voting system - android
 
 **Idea:**
 
@@ -107,9 +110,12 @@ In many institutions, we still use the manual based voting system, where a user 
 
 Web Development, Cryptography.
 
-### 5. E-voting (Cryptography + Android)
+### 5. E-voting (Cryptography + Server + Android)
 
-(Existing repo with some work in php(web): [E-voting-portal](https://github.com/BroFOSS/E-voting-portal))
+E-voting repos:
+- [E-voting-server](https://github.com/BroFOSS/E-voting-server): Server side code for e-voting-portals - web, and android
+- [E-voting-portal-web](https://github.com/BroFOSS/E-voting-portal-web): An internet based electronic voting system - web
+- [E-voting-portal-mobile](https://github.com/BroFOSS/E-voting-portal-mobile): An internet based electronic voting system - android
 
 **Idea:**
 
