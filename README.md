@@ -43,19 +43,13 @@ We are applying for the first time to Google Summer of Code 2018. Below are some
 
   - Github: [opticod](https://github.com/opticod)    LinkedIn: [opticod](https://www.linkedin.com/in/opticod/)  
 
-  - Email: anupam.das.bwn@gmail.com
-
 * Arnab Kumar Das
  
   - Github: [arnabdasbwn](https://github.com/arnabdasbwn)  LinkedIn: [arnabdasbwn](https://www.linkedin.com/in/arnabdasbwn/)
 
-  - Email: arnab.das.bwn@gmail.com
-
 * Aman Omkar 
 
   - Github: [aman3003](https://github.com/aman3003)    LinkedIn: [amanomkar](https://www.linkedin.com/in/aman-omkar-a3a3a1151/) 
-
-  - Email: iitp.aman@gmail.com 
 
 We are also open to new potential mentors, who wants to join us.
 
